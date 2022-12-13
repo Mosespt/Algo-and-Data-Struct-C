@@ -1,1 +1,1 @@
-# Algo-Data-Struct-C
+# Algorithm and Data Structure - C (POLITECNICO DI TORINO)
